@@ -13,7 +13,7 @@ Developed in **Java** with a **Java Swing** graphical interface and connected to
 
 A short demonstration of the application features:
 
-[![Demo Video](demo/demo_thumbnail.png)](demo/demo.webm)
+[![Demo Video](demo/demo_thumbnail.png)](assets/demo/demo.webm)
 
 Click the image above to watch the demo.
 
