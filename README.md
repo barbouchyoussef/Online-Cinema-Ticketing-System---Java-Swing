@@ -106,7 +106,7 @@ _Add a new movie_
 ![Admin Customers CRUD](screenshots/admin_customers_crud.png)  
 _Manage customers (CRUD)_
 
-![Admin Add Showtime](screenshots/admin_add_showtime.png)  
+![Admin Add Showtime](assets/screenshots/admin_add_showtime.png)  
 _Add a new showtime_
 
 ### Database
