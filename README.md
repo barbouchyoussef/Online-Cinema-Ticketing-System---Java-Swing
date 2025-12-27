@@ -9,15 +9,15 @@ This project is an online cinema ticketing system that allows customers to book 
 Developed in **Java** with a **Java Swing** graphical interface and connected to a **MySQL** database, this application demonstrates object-oriented programming, GUI development, and database integration.
 
 ---
+
 ## Demo Video
 
 A short demonstration of the application features:
 
-[![Demo Video](demo/demo_thumbnail.png)](https://github.com/barbouchyoussef/Online-Cinema-Ticketing-System---Java-Swing/raw/main/assets/demo/demo.webm)
+[![Demo Video](assets/demo/demo_thumbnail.png)](https://github.com/barbouchyoussef/Online-Cinema-Ticketing-System---Java-Swing/raw/main/assets/demo/demo.webm)
 *Click the image to download/play the demo video.*
 
-Click the image above to watch the demo.
-
+---
 
 ## 👥 User Roles & Key Features
 
@@ -74,45 +74,47 @@ Click the image above to watch the demo.
 3. Schedule a new show for a movie in a theater.
 
 ---
+
 ## Screenshots
 
 ### Authentication
-![Login](screenshots/login.png)  
+![Login](assets/screenshots/login.png)  
 _Login screen for Client/Admin_
 
 ### Client Side
-![Client Home](screenshots/client_home.png)  
+![Client Home](assets/screenshots/client_home.png)  
 _Client home page_
 
-![Client Movies Home](screenshots/client_movies_home.png)  
+![Client Movies Home](assets/screenshots/client_movies_home.png)  
 _Client view of available movies (browse / selection)_
 
-![Client Reservations List](screenshots/client_reservation_list.png)  
+![Client Reservations List](assets/screenshots/client_reservation_list.png)  
 _List of client reservations_
 
-![Client Ticket PDF](screenshots/client_ticket_pdf.png)  
+![Client Ticket PDF](assets/screenshots/client_ticket_pdf.png)  
 _Example of ticket generated in PDF_
 
 ### Admin Side
-![Admin Home](screenshots/admin_home.png)  
+![Admin Home](assets/screenshots/admin_home.png)  
 _Admin home page_
 
-![Admin Movies CRUD](screenshots/admin_movies_crud.png)  
+![Admin Movies CRUD](assets/screenshots/admin_movies_crud.png)  
 _Admin movies management (CRUD)_
 
-![Admin Add Movie](screenshots/admin_add_movie.png)  
+![Admin Add Movie](assets/screenshots/admin_add_movie.png)  
 _Add a new movie_
 
-![Admin Customers CRUD](screenshots/admin_customers_crud.png)  
+![Admin Customers CRUD](assets/screenshots/admin_customers_crud.png)  
 _Manage customers (CRUD)_
 
 ![Admin Add Showtime](assets/screenshots/admin_add_showtime.png)  
 _Add a new showtime_
 
 ### Database
-![Database Overview](screenshots/database_overview.png)  
-_Localhost / MySQL database overview
+![Database Overview](assets/screenshots/database_overview.png)  
+_Localhost / MySQL database overview_
 
+---
 
 ## 📁 Project Structure
 
