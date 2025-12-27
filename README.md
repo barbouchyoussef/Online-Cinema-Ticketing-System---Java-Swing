@@ -13,7 +13,8 @@ Developed in **Java** with a **Java Swing** graphical interface and connected to
 
 A short demonstration of the application features:
 
-[![Demo Video](demo/demo_thumbnail.png)](assets/demo/demo.webm)
+[![Demo Video](demo/demo_thumbnail.png)](https://github.com/barbouchyoussef/Online-Cinema-Ticketing-System---Java-Swing/raw/main/assets/demo/demo.webm)
+*Click the image to download/play the demo video.*
 
 Click the image above to watch the demo.
 
