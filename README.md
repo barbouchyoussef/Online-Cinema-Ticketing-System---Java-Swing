@@ -14,7 +14,8 @@ Developed in **Java** with a **Java Swing** graphical interface and connected to
 
 A short demonstration of the application features:
 
-[![Demo Video](assets/demo/demo_thumbnail.png)](https://github.com/barbouchyoussef/Online-Cinema-Ticketing-System---Java-Swing/raw/main/assets/demo/demo.webm)
+[![Demo Video](assets/demo/demo_thumbnail.png)](https://drive.google.com/file/d/1_3fOFIV6o4TUIG8n-D5FuuwiUeHceShn/view?usp=sharing)
+
 *Click the image to download/play the demo video.*
 
 ---
