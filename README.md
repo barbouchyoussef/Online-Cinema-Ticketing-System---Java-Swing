@@ -3,13 +3,6 @@
 [![Language](https://img.shields.io/badge/language-Java-blue)](https://www.oracle.com/java/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-## 🧾 Project Overview
-
-This project is an online cinema ticketing system that allows customers to book movie tickets and administrators to manage movies, theaters, users, and showtimes.  
-Developed in **Java** with a **Java Swing** graphical interface and connected to a **MySQL** database, this application demonstrates object-oriented programming, GUI development, and database integration.
-
----
-
 ## Demo Video
 
 A short demonstration of the application features:
@@ -17,6 +10,12 @@ A short demonstration of the application features:
 [![Demo Video](assets/demo/demo_thumbnail.png)](https://drive.google.com/file/d/1_3fOFIV6o4TUIG8n-D5FuuwiUeHceShn/view?usp=sharing)
 
 *Click the image to download/play the demo video.*
+
+---
+## 🧾 Project Overview
+
+This project is an online cinema ticketing system that allows customers to book movie tickets and administrators to manage movies, theaters, users, and showtimes.  
+Developed in **Java** with a **Java Swing** graphical interface and connected to a **MySQL** database, this application demonstrates object-oriented programming, GUI development, and database integration.
 
 ---
 
